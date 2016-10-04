@@ -1,0 +1,13 @@
+mkdir cria diretorio (Pode mudar para um diretorcio especifico usando cd ou -> mkdir Folter/New_Folter)
+cal -> calendario
+date -> data
+cat > test -> creates a new txt file  and you can write the text in the next line.
+ctrl + d to exit the file
+cat < test -> show the content of the txt file. 
+can random test > merged_file (merge files random and test)
+mv old_foler new_folder (rename the old_folder to the new_folder)
+rm file (delete file)
+rm -r folder (delete a directory)
+rmdir folter (delete a directory)
+cp file NewFolder/file  (Copia um arquivo e cola em outra pasta)
+mv """     """""   (Move o arquivo para outra pasta)
