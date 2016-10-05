@@ -1,0 +1,5 @@
+echo "Hello World" -> Prints a message on the screen
+read x -> to read a value from the user
+read -p "Message -> Pick a Number: " x
+echo "$x" -> prints the value o x on the screen
+echo "John" >> file.txt -> add the word John to the file.txt
